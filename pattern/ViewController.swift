@@ -37,8 +37,9 @@ class ViewController: UIViewController {
         button.backgroundColor = .darkGray
         button.layer.cornerRadius = 10
         button.layer.borderWidth = 5
-        button.layer.borderColor = .init(red: 0, green: 0, blue: 0, alpha: 1)
+        button.layer.borderColor = .init(red: 0, green: 0, blue: 0, alpha: 0.25)
         button.addTarget(self, action: #selector(dispImage(sender: )), for: .touchUpInside)
+        button.addTarget(self, action: #selector(upButton(sender:)), for: .touchDown)
         view.addSubview(button)
     }
     
@@ -62,9 +63,23 @@ class ViewController: UIViewController {
 //        let rndPick = imagePicker(imgs: imgs, imgView: imgView, label: label, viewCon: self)
 //        rndPick.display()
         
+        button.frame = CGRect(x: 0, y: 650, width: 300, height: 70)
+        button.layer.shadowOffset = CGSize(width: 10, height: 10)
+        button.layer.shadowColor = CGColor(red: 0, green: 0, blue: 0, alpha: 1)
+        button.layer.shadowOpacity = 0.5
+        button.center.x = view.center.x
+        
         //COMMENT THIS
         disp.viewDidLoad()
         self.present(disp, animated: true)
+    }
+    
+    @objc func upButton(sender:UIButton){
+        button.frame = CGRect(x: 0, y: 650, width: 270, height: 60)
+        button.center.x = view.center.x
+        button.layer.shadowOffset = CGSize(width: 0, height: 0)
+        button.layer.shadowColor = CGColor(red: 0, green: 0, blue: 0, alpha: 0)
+        button.layer.shadowOpacity = 0
     }
 }
 
