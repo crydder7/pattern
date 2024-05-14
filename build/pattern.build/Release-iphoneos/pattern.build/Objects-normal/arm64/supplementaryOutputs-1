@@ -1,0 +1,9 @@
+"/Users/kaidder/Developer/pattern/pattern/myClass.swift":
+  const-values: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master.swiftconstvalues"
+  swiftdoc: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern.swiftdoc"
+  dependencies: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master.d"
+  objc-header: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-Swift.h"
+  diagnostics: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master.dia"
+  swiftmodule: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern.swiftmodule"
+  swiftsourceinfo: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern.swiftsourceinfo"
+  abi-baseline-json: "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern.abi.json"

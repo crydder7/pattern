@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "3c6be4dfcf7fa3628baa8538b4d2779894a5ae96b4423075e2b0c2a3a09ca20e"
+build_start_time: [1715548090, 528956000]
+build_end_time: [1715548134, 695271000]
+inputs:
+  "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/DerivedSources/GeneratedAssetSymbols.swift": [1715548084, 160430891]
+  "/Users/kaidder/Developer/pattern/pattern/AppDelegate.swift": [1715170470, 495570299]
+  "/Users/kaidder/Developer/pattern/pattern/SceneDelegate.swift": [1715170470, 499022030]
+  "/Users/kaidder/Developer/pattern/pattern/ViewController.swift": [1715547683, 727403442]
+  "/Users/kaidder/Developer/pattern/pattern/myClass.swift": [1715341411, 242729249]
+  "/Users/kaidder/Developer/pattern/pattern/pictures.swift": [1715341191, 860154218]

@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master.swiftconstvalues",
+    "dependencies" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master.d",
+    "diagnostics" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master.dia",
+    "emit-module-dependencies" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pattern-master.swiftdeps"
+  },
+  "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/kaidder/Developer/pattern/pattern/AppDelegate.swift" : {
+    "index-unit-output-path" : "/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/kaidder/Developer/pattern/pattern/myClass.swift" : {
+    "index-unit-output-path" : "/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/myClass.o",
+    "llvm-bc" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/myClass.bc",
+    "object" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/myClass.o"
+  },
+  "/Users/kaidder/Developer/pattern/pattern/pictures.swift" : {
+    "index-unit-output-path" : "/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pictures.o",
+    "llvm-bc" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pictures.bc",
+    "object" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/pictures.o"
+  },
+  "/Users/kaidder/Developer/pattern/pattern/SceneDelegate.swift" : {
+    "index-unit-output-path" : "/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/SceneDelegate.o"
+  },
+  "/Users/kaidder/Developer/pattern/pattern/ViewController.swift" : {
+    "index-unit-output-path" : "/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/kaidder/Developer/pattern/build/pattern.build/Release-iphoneos/pattern.build/Objects-normal/arm64/ViewController.o"
+  }
+}
