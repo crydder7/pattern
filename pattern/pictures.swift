@@ -18,7 +18,7 @@ class pictures: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .lightGray
         let imgs = [au! :"СПБАУ",polit! :"Политех",su! :"СПБГУ",itmo!:"ИТМО",suai!:"ГУАП",spbsti!:"СПБГТИ",leti!:"ЛЭТИ"]
-        let rndPick = imagePicker(imgs: imgs, imgView: imgView, label: label, viewCon: self, size: 350, xCoordinate: view.center.x, yCoordinate: view.center.y, infoButton: infoButton)
+        let rndPick = imagePicker(imgs: imgs, imgView: imgView, label: label, viewCon: self, size: 350, xCoordinate: view.center.x, yCoordinate: view.center.y)
         rndPick.setupImg()
         msg = rndPick.display()
         infoButtonDisp()
@@ -42,5 +42,4 @@ class pictures: UIViewController {
         alert.addAction(action)
         self.present(alert, animated: true)
     }
-
 }

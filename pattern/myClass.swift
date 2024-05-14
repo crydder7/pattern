@@ -10,9 +10,8 @@ class imagePicker{
     let size : CGFloat
     let xCoordinate : CGFloat
     let yCoordinate : CGFloat
-    let infoButton : UIButton
     
-    init(imgs: [UIImage : String], imgView: UIImageView, label: UILabel, viewCon: UIViewController, size : CGFloat, xCoordinate: CGFloat, yCoordinate: CGFloat, infoButton: UIButton) {
+    init(imgs: [UIImage : String], imgView: UIImageView, label: UILabel, viewCon: UIViewController, size : CGFloat, xCoordinate: CGFloat, yCoordinate: CGFloat) {
         self.imgs = imgs
         self.imgView = imgView
         self.label = label
@@ -20,7 +19,6 @@ class imagePicker{
         self.size = size
         self.xCoordinate = xCoordinate
         self.yCoordinate = yCoordinate
-        self.infoButton = infoButton
         self.universities = []
         for i in self.imgs.keys{
             self.universities.append(University(name: self.imgs[i]!, logo: i))

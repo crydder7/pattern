@@ -60,7 +60,8 @@ class ViewController: UIViewController {
     @objc func dispImage(sender:Any){
         //UNCOMMENT THIS
 //        let imgs = [au! :"СПБАУ",polit! :"Политех",su! :"СПБГУ",itmo!:"ИТМО",suai!:"ГУАП",spbsti!:"СПБГТИ",leti!:"ЛЭТИ"]
-//        let rndPick = imagePicker(imgs: imgs, imgView: imgView, label: label, viewCon: self)
+//        let rndPick = imagePicker(imgs: imgs, imgView: imgView, label: label, viewCon: self, size: 350, xCoordinate: view.center.x, yCoordinate: view.center.y)
+//        rndPick.setupImg()
 //        rndPick.display()
         
         button.frame = CGRect(x: 0, y: 650, width: 300, height: 70)
